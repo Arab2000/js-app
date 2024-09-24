@@ -1,0 +1,22 @@
+body{
+    background-color: aliceblue;
+    padding: 30px;
+}
+h2{
+    font-size: 44px;
+    font-weight: 800;
+    letter-spacing: 1px;
+    word-spacing: 1px;
+    margin-bottom: 12px;
+}
+p{
+    letter-spacing: 1px;
+    word-spacing: 1px;
+    font-size: 16px;
+    margin-bottom: 20px;
+}
+.form{
+    height: 45px;
+    font-size: 15px;
+    letter-spacing: 1px;
+}
